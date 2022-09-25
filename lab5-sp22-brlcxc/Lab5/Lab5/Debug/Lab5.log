@@ -1,0 +1,5 @@
+﻿  checkingmodule.cpp
+C:\Personal\UMKC\UMKC Spring 2022\CS201\Github_201L\lab5-sp22-brlcxc\Lab5\Lab5\checkingmodule.cpp(21,39): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+C:\Personal\UMKC\UMKC Spring 2022\CS201\Github_201L\lab5-sp22-brlcxc\Lab5\Lab5\checkingmodule.cpp(27,34): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+C:\Personal\UMKC\UMKC Spring 2022\CS201\Github_201L\lab5-sp22-brlcxc\Lab5\Lab5\checkingmodule.cpp(28,16): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+  Lab5.vcxproj -> C:\Personal\UMKC\UMKC Spring 2022\CS201\Github_201L\lab5-sp22-brlcxc\Lab5\Debug\Lab5.exe
