@@ -1,0 +1,4 @@
+﻿  Source1.cpp
+C:\Personal\UMKC\UMKC Spring 2022\CS201\Github_201L\lab3-brlcxc\Lab3\Lab3\Source1.cpp(36,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Personal\UMKC\UMKC Spring 2022\CS201\Github_201L\lab3-brlcxc\Lab3\Lab3\Source1.cpp(52,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Lab3.vcxproj -> C:\Personal\UMKC\UMKC Spring 2022\CS201\Github_201L\lab3-brlcxc\Lab3\Debug\Lab3.exe
