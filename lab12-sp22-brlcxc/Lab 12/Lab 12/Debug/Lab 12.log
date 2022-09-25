@@ -1,0 +1,5 @@
+﻿  functions.cpp
+  main.cpp
+C:\Personal\UMKC\UMKC Spring 2022\CS201\Github_201L\lab12-sp22-brlcxc\Lab 12\Lab 12\main.cpp(6,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+  Lab 12.vcxproj -> C:\Personal\UMKC\UMKC Spring 2022\CS201\Github_201L\lab12-sp22-brlcxc\Lab 12\Debug\Lab 12.exe
